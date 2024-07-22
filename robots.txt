@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://desawisatapunjulharjo.com/shippingl/sitemap-cty-index.xml
+Sitemap: https://desawisatapunjulharjo.com/shippingl/sitemap-dwx-index.xml
