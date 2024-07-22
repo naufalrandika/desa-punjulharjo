@@ -35,8 +35,6 @@ Email: admin@admin.com
 Password: 12345
 ```
 
-For more info, visit the <a href="http://arifszn.github.io/ezfolio">docs</a>.
-
 
 ## Screenshots
 
